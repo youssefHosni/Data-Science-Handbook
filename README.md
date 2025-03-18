@@ -43,7 +43,7 @@ This is a repo with links to everything you want to learn about data science and
 * [5 Top Practical Computer Vision Books](https://medium.com/geekculture/5-top-practical-computer-vision-books-e501c0c8007?sk=a1c4a651b4da28d87ff13d4aba555cb0)
 * [Top 10 Theoretical & Practical Computer Vision Books](https://medium.com/geekculture/top-10-theoretical-practical-computer-vision-books-c32be0913104?sk=035f6b7852d7c054b9343037a0674f2f)
 * [Learn Computer Vision From Top Universities](https://medium.com/mlearning-ai/learn-computer-vision-from-top-universities-bb6019be74d2?sk=81c21fb4024bb933e01c24b000660dc0)
-* [Mastering & Understanding Computer Vision: A Comprehensive Study Roadmap for 2023]()
+* [Mastering & Understanding Computer Vision: A Comprehensive Study Roadmap for 2023](https://levelup.gitconnected.com/a-comprehensive-computer-vision-free-study-roadmap-for-2023-3e95a6d656e7)
 
 #### 1.5.3. Natural Language Processing #### 
 * [Top Resoruces to Learn & Understand Large Language Models](https://medium.com/geekculture/top-resoruces-to-learn-understand-large-language-models-4d339f7b685d?sk=282b454d11695c0ea6751f743ade319d)
