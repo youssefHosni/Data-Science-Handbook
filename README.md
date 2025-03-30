@@ -28,7 +28,7 @@ This is a repo with links to everything you want to learn about data science and
 * [5 Best Books To Learn Statistics And Probability For Data Scientists](https://medium.com/geekculture/5-best-books-to-learn-statistics-and-probability-for-data-scientists-85144cd81f82?sk=677e77c756f00b24caaf6c8b84cf842f)
 * [A/B Testing Study Plan: From Novice to Upper Intermediate Level](https://levelup.gitconnected.com/a-b-testing-study-plan-from-novice-to-upper-intermediate-level-a96bf4055e22?sk=931262519d4b3b3b19a92aede8191ff4)
 
-### 1.5. Modeling ###
+### 1.5. AI ###
 * [Learn AI from Top Universities Through these 10 Courses](https://pub.towardsai.net/learn-ai-from-top-universities-through-these-10-courses-13e7a8d3957b?sk=5049a7e5344b2281fb115001fa632f1c)
 * [6 Best Books to Learn Mathematics for Data Science & Machine Learning](https://medium.com/geekculture/6-best-books-to-learn-mathematics-for-data-science-machine-learning-a3924497cf66?sk=7cdc2a3f2346d48e75403fb9a29e1a74)
 * [6 Top University Courses to Learn Mathematics for Machine Learning & Data Science](https://medium.com/geekculture/6-top-university-courses-to-learn-mathematics-for-machine-learning-data-science-869fbd43f7e?sk=ed4f2afd89766644ae16a66953f948da)
@@ -53,6 +53,37 @@ This is a repo with links to everything you want to learn about data science and
 * [10 Top Time Series Courses to Proficient This Important Data Science Skills](https://pub.towardsai.net/10-top-time-series-courses-to-proficient-this-important-data-science-skills-565212d29a0?sk=8210dcce7c3cd3d6aa61b9a1d2ee6b96)
 * [Level Up Your Time Series Analysis Skills with These 5 Books](https://medium.com/geekculture/level-up-your-time-series-analysis-skills-with-these-5-books-53d49b0c3ab3?sk=e39c5e934a25ff0e19f60ccaa24b2473)
 * [13 Guided Time Series Projects to Build Your Portfolio](https://pub.towardsai.net/10-top-time-series-courses-to-proficient-this-important-data-science-skills-565212d29a0?sk=8210dcce7c3cd3d6aa61b9a1d2ee6b96)
+
+#### 1.5.5. Generative AI & LLMs ####
+
+**LLM Basics**
+* [Top Large Langauge Models Practical & Theoretical Courses](https://levelup.gitconnected.com/5-top-large-langauge-models-practical-theoretical-courses-43e9f95da06e?sk=992bbfe34e923f3e3ebc9248eb5576c2)
+
+**LLM From Scratch**
+
+* [Best Resources On Building Datasets to Trian LLMs](https://levelup.gitconnected.com/best-resources-on-building-datasets-to-trian-llms-f6c6e02fc375?sk=342b0b4f9587b2db3af5fe86c90e519e)
+* [Mastering Large Language Model (LLM) Fine-Tuning: Top Learning Resources](https://pub.towardsai.net/mastering-large-language-model-llm-fine-tuning-top-learning-resources-dcef012256fd?sk=54ca7be29591c08bd12b6161b534f859)
+* [14 Free Large Language Models Fine-Tuning Notebooks](https://levelup.gitconnected.com/14-free-large-language-models-fine-tuning-notebooks-532055717cb7?sk=ef3212821235db70871d72c86e179b07)
+* [Best Resources to Learn & Understand Evaluating LLMs](https://pub.towardsai.net/best-resources-to-learn-understand-evaluating-llms-4610ee5dc5c1?sk=2e53e253dbf2890f0cc94c0cfe7c64c0)
+* [Overview of LLM Quantization Techniques & Where to Learn Each of Them?](https://yousefhosni.medium.com/overview-of-llm-quantization-techniques-where-to-learn-each-of-them-0d8599acfec8?sk=594f81f338f15bb211d9356a6537e476)
+* [Top Resources to Learn & Understand RLHF & LLM Alignment](https://levelup.gitconnected.com/top-resources-to-learn-understand-rlhf-69f7984f1e58?sk=79d44cc8a12394a958545096643bc583)
+* [How to Stay Updated with LLM Research & Industry News?](https://medium.com/gitconnected/how-to-stay-updated-with-llm-research-industry-news-c1d60e341bad?sk=99998b76402b2555c2bf998dd186ba0c)
+
+**LLMs In Production** 
+* [Best Resoruces to Learn Prompt Engineering](https://levelup.gitconnected.com/5-best-resoruces-to-learn-prompt-engineering-7a0ffb459324?sk=cf149a0c227e5ece367ab1405827498b)
+* [Top Resources to Master Vector Databases & Building a Vector Storage](https://levelup.gitconnected.com/6-resources-to-master-vector-databases-building-a-vector-storage-8d94ca1e3897?sk=1447d3e09380b72ded2edd380e354f22)
+* [Top Resources to Master RAG: From Basic Level to Advanced](https://pub.towardsai.net/top-resources-to-master-rag-from-basic-level-to-advanced-755a814d9348?sk=0e75d3790fbb62b5592b3858b4376cf8)
+* [Top Free Learning Resources to Master LLM Agents](https://levelup.gitconnected.com/top-free-learning-resources-to-master-llm-agents-477fad6fcf9c?sk=b345796e178fa5624c72ad22b83bb2f8)
+* [5 Free Tools to Run Large Language Models (LLM) Locally on Your Laptop](https://levelup.gitconnected.com/5-free-tools-to-run-large-language-models-llm-locally-on-your-laptop-9a359f1df506?sk=300f0008936ac81e2220fa4dbdb633bf)
+* [Deploying LLMs: Top Learning & Educational Resources to Get Started](https://levelup.gitconnected.com/deploying-llms-top-learning-educational-resources-to-get-started-4db8c6034dc5?sk=5482bff8287673630144390bda4721d4)
+* [Getting Started with LLM Inference Optimization: Best Resources](https://youssefh.substack.com/p/getting-started-with-llm-inference)
+* [What is LLMOps and How to Get Started With It](https://levelup.gitconnected.com/what-is-llmops-and-how-to-get-started-with-it-04002c25e081?sk=f127154bd466cca6b5aae3ce88774f6e)
+* [Securing LLMs: Best Learning & Educational Resources](https://levelup.gitconnected.com/securing-llms-best-learning-educational-resources-b9638c063c92?sk=0ba4ddeb4998f310509e99ec3d3d93b9)
+
+**Building LLM Projects**
+* [10 Large Language Models Projects To Build Your Portfolio](https://levelup.gitconnected.com/10-large-language-models-projects-to-build-your-portfolio-d7974569aad4?sk=d59e963806e3ccf5fdcd3b5c0f715f48)
+* [10 Guided Large Language Models Projects to Build Your Portfolio](https://levelup.gitconnected.com/10-guided-large-language-models-projects-to-build-your-portfolio-dc9bd79f09c?sk=fa1867433c0285c6f41470fba0d2198f)
+
 
 ### 1.6. Model Deployment ### 
 * [5 Short Courses Master Deploying Models Into Production](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-7-436ab0cad5?sk=f770e8ed6baa4c4a58bbef7c8abda3e0)
