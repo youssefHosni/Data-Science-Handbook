@@ -1,5 +1,5 @@
 # Data-Science-Handbook  
-This is a repo with links to everything you want to learn about data science and AI
+This is a repo with links to everything you want to learn about data science, AI & Generative AI and LLMs.
 
 [![GitHub license](https://img.shields.io/github/license/youssefHosni/Awesome-Data-Science-Resoruces.svg)](https://github.com/youssefHosni/Awesome-Data-Science-Resoruces/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/youssefHosni/Awesome-Data-Science-Resoruces.svg)](https://GitHub.com/youssefHosni/Awesome-Data-Science-Resoruces/graphs/contributors/)
